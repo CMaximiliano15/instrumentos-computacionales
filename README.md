@@ -1,8 +1,8 @@
-# 📊 Instrumentos Computacionales — Maestría en Economía (UNLP)
+# 📊 Instrumentos Computacionales
 
 ¡Bienvenidos y bienvenidas! 🎉
 
-Este es el repositorio oficial de la parte de **Stata** del **Seminario de Instrumentos Computacionales** de la Maestría en Economía de la Universidad Nacional de La Plata (UNLP).
+Este es el repositorio oficial de la parte de **Stata** del **Seminario de Instrumentos Computacionales** de la Maestría en Economía de la Universidad Nacional de La Plata.
 
 Nos alegra tenerte por acá. Este espacio fue pensado para acompañarte a lo largo del curso y facilitarte el acceso a todos los materiales que vas a necesitar.
 
@@ -16,4 +16,4 @@ Nos alegra tenerte por acá. Este espacio fue pensado para acompañarte a lo lar
 
 ---
 
-¡Cualquier duda, no dudes en consultar! Mucho éxito en el cursado. 🚀
+¡Cualquier duda, no dudes en consultar! Éxitos
