@@ -1,9 +1,8 @@
 # Cómo agregar tu solución a un ejercicio
 
-Esta guía te muestra cómo subir tu archivo `.do` en menos de 5 minutos
-usando solo el navegador. 
+Esta guía te muestra cómo subir tu archivo `.do` usando solo el navegador. 
 
-No hace falta saber Git para esto. Solo seguí los pasos y usá la interfaz web.
+No hace falta saber Git, solo seguí los pasos y usá la interfaz web de GitHub.
 
 ------------------------------------------------------------------------
 
@@ -31,9 +30,8 @@ Dentro de tu fork:
 
 1.  Navegá a:
 
-        ejercicios-optativos/ejercicio-xx/soluciones_alumnos/
-
-2.  (Reemplazá `ejercicio-xx` por el ejercicio correspondiente)
+        ejercicios/opcionales/ejercicio-xx/soluciones_alumnos/
+  (Reemplazá `ejercicio-xx` por el ejercicio correspondiente)
 
 ------------------------------------------------------------------------
 
