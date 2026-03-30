@@ -22,30 +22,29 @@ Nos alegra tenerte por acá. Este espacio fue pensado para acompañarte a lo lar
 
 Materiales complementarios para profundizar los temas del curso.
 
+### 🔗 Repositorios:
+
+- [asjadnaqvi](https://github.com/asjadnaqvi/The-Stata-Guide) - Comandos y paquetes muy útiles, sobre todo para gráficos.
+- [Curso Git](https://github.com/mouredev/hello-git) - Lecciones para aprender a trabajar con Git.
+  
 ### 🎥 Videos
 
 Algunos videos recomendados en YouTube:
 
-- [![Video macros](https://img.youtube.com/vi/Z2XGFCowcDM/hqdefault.jpg)](https://youtu.be/Z2XGFCowcDM)
-- [![Video bucles](https://img.youtube.com/vi/AS2omqYhkR0/hqdefault.jpg)](https://youtu.be/AS2omqYhkR0)
-
-- [![Video regex](https://img.youtube.com/vi/NgM3adJrjKo/hqdefault.jpg)](https://youtu.be/NgM3adJrjKo)
-- [![Video merge](https://img.youtube.com/vi/vbcGwqUCIFE/hqdefault.jpg)](https://youtu.be/vbcGwqUCIFE)
+  #### Git y Github:
+  [![Video git-midu](https://img.youtube.com/vi/niPExbK8lSw/hqdefault.jpg)](https://youtu.be/niPExbK8lSw)
+  [![Video git-mou](https://img.youtube.com/vi/3GymExBkKjE/hqdefault.jpg)](https://youtu.be/3GymExBkKjE)
   
-- [![Video git](https://img.youtube.com/vi/niPExbK8lSw/hqdefault.jpg)](https://youtu.be/niPExbK8lSw)
+  #### Stata:
+  [![Video macros](https://img.youtube.com/vi/Z2XGFCowcDM/hqdefault.jpg)](https://youtu.be/Z2XGFCowcDM)
+  [![Video bucles](https://img.youtube.com/vi/AS2omqYhkR0/hqdefault.jpg)](https://youtu.be/AS2omqYhkR0)
+
+  [![Video regex](https://img.youtube.com/vi/NgM3adJrjKo/hqdefault.jpg)](https://youtu.be/NgM3adJrjKo)
+  [![Video merge](https://img.youtube.com/vi/vbcGwqUCIFE/hqdefault.jpg)](https://youtu.be/vbcGwqUCIFE)
+  
 
 
 
-### 🌐 Sitios Web
 
-- [Nombre del sitio](https://example.com/) - Para consultar conceptos y ejemplos.
-- [Documentación oficial](https://example.com/) - Referencia técnica y sintaxis.
 
-### 🔗 Repositorios:
 
-- [Stata packages](https://github.com/asjadnaqvi/The-Stata-Guide) - Utilidad práctica para organización o análisis.
-- [Otro recurso](https://example.com/) - Complemento para trabajar de forma más eficiente.
-
----
-
-¡Cualquier duda, no dudes en consultar! Éxitos
